@@ -1,0 +1,5 @@
+{
+  "path": "jdbc:postgresql://localhost:5432/codecoolshop_test",
+  "username": "postgres",
+  "password": "postgres"
+}
